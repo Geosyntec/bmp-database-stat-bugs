@@ -4,13 +4,9 @@ Please use the following bug reporting template to help produce actionable and r
 
 * Steps required to reproduce
 
-* Screen shot of the output
+* Screen shot or text of the output
 
 * Expected results
-
-* Actual results (with terminal output if applicable)
-
-* Your Windows build number
 
 * Additional information
 
