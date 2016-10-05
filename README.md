@@ -21,6 +21,7 @@ In the spirit of openness we will be tagging issues with the following:
 Issues may be closed by the original poster at any time.
 We will close issues if:
 
-- One week passes after the change goes out to the Insider Fast ring
-- An issue is clearly a dup of another.  The duplicate will be linked
+- After the issue has been fixed
+- An issue is clearly a dup of another. 
+  The duplicate will be linked
 - Any discussion that has clearly run its course
